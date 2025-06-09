@@ -1,0 +1,2891 @@
+itr_num, Layer_Name, Process_Name, Log_Prompt,11,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,1
+1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,TriggerActuatorToActivate,Activate Trigger,2
+1,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,1
+1,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+o Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+o Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+o Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+o Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,1
+1,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,1
+1,Physical Layer,TriggerActuatorToActivate,Activate Trigger,2
+2,Physical Layer,ReadSensor,Sensor read has been done,2
+2,Edge Layer,CollectSensorData,Sensor Data has been collected,2
+o Edge,2
+2,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,2
+2,Physical Layer,ReadSensor,Sensor read has been done,2
+2,Edge Layer,CollectSensorData,Sensor Data has been collected,2
+o Edge,2
+2,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,2
+2,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,2
+2,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,2
+2,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,2
+2,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,2
+2,Cloud Layer,ExecuteMLModel,MLModel has been executed,2
+2,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,2
+2,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,2
+2,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,2,Physical Layer,TriggerActuatorToActivate,Activate Trigger,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+o Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+o Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+o Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+o Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Physical Layer,TriggerActuatorToActivate,Activate Trigger,4
+nt to physical layer,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,3
+3
+3,Physical Layer,TriggerActuatorToActivate,Activate Trigger,4
+4,Physical Layer,ReadSensor,Sensor read has been done,4
+4,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,4
+4,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,4
+4,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,4
+4,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,4
+4,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,4
+4,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,4
+4,Cloud Layer,ExecuteMLModel,MLModel has been executed,4
+4,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,4
+4,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,4
+4,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,4
+4,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,4
+4,Physical Layer,TriggerActuatorToActivate,Activate Trigger,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,TriggerActuatorToActivate,Activate Trigger,6
+nt to physical layer,5
+5,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,5,Physical Layer,TriggerActuatorToActivate,Activate Trigger,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,6
+6,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,6
+6,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,6
+6,Physical Layer,TriggerActuatorToActivate,Activate Trigger,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Edge Layer,CollectSensorData,Sensor Data has been collected,7
+7,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,7
+7,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,7
+7,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,7
+7,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,7
+7,Cloud Layer,ExecuteMLModel,MLModel has been executed,7
+7,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,7
+7,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,7
+7,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,7
+7,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,7
+7,Physical Layer,TriggerActuatorToActivate,Activate Trigger,8
+8,Physical Layer,ReadSensor,Sensor read has been done,8
+8,Edge Layer,CollectSensorData,Sensor Data has been collected,8
+o Edge,8
+8,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,8
+8,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,8
+8,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,8
+8,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,8
+8,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,8
+8,Cloud Layer,ExecuteMLModel,MLModel has been executed,8
+8,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,8
+8,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,8
+8,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,8
+8,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,8
+8,Physical Layer,TriggerActuatorToActivate,Activate Trigger,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Edge Layer,CollectSensorData,Sensor Data has been collected,9
+o Edge,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,9
+9,Edge Layer,CollectSensorData,Sensor Data has been collected,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,9
+9,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,9
+9,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,9
+9,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,9
+9,Cloud Layer,ExecuteMLModel,MLModel has been executed,9
+9,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,9
+9,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,9
+9,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,9
+9,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,9
+9,Physical Layer,TriggerActuatorToActivate,Activate Trigger,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+ Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Physical Layer,TriggerActuatorToActivate,Activate Trigger,11
+10,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+ Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,10
+10,Physical Layer,TriggerActuatorToActivate,Activate Trigger,11
+t to physical layer,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+ Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Physical Layer,TriggerActuatorToActivate,Activate Trigger,11
+10,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Physical Layer,TriggerActuatorToActivate,Activate Trigger,11
+t to physical layer,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,10
+10,Physical Layer,TriggerActuatorToActivate,Activate Trigger,11
+10,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+ Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+ Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+ Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,10
+10,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,10
+10,Physical Layer,TriggerActuatorToActivate,Activate Trigger,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Edge Layer,CollectSensorData,Sensor Data has been collected,11
+11,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,11
+11,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,11
+11,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,11
+11,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,11
+11,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,11
+11,Cloud Layer,ExecuteMLModel,MLModel has been executed,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,11
+11,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,11
+11,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,11
+11,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,11
+11,Cloud Layer,ExecuteMLModel,MLModel has been executed,11
+11,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,11
+11,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Edge Layer,CollectSensorData,Sensor Data has been collected,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+o Edge,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Edge Layer,CollectSensorData,Sensor Data has been collected,11
+ Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,11
+11,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,11
+11,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,11
+11,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,11
+11,Cloud Layer,ExecuteMLModel,MLModel has been executed,11
+11,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,11
+11,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,11
+11,Edge Layer,CollectSensorData,Sensor Data has been collected,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,11
+11,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,11
+11,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,11
+11,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,11
+11,Cloud Layer,ExecuteMLModel,MLModel has been executed,11
+11,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,11
+11,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,11
+11,Cloud Layer,SendTriggerToActuator,Trigger actuator has been se11,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,11
+11,Edge Layer,CollectSensorData,Sensor Data has been collected,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,11
+11,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,11
+11,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,11
+11,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,11
+11,Cloud Layer,ExecuteMLModel,MLModel has been executed,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,11
+11,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,11
+11,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,11
+11,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,11
+11,Cloud Layer,ExecuteMLModel,MLModel has been executed,11
+11,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,11
+11,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,11
+11,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,11
+1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+o Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+o Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,1
+1,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,1
+1,Physical Layer,TriggerActuatorToActivate,Activate Trigger,2
+ent to Edge layer,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+o Edge,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Physical Layer,ReadSensor,Sensor read has been done,1
+1,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,1
+1,Edge Layer,CollectSensorData,Sensor Data has been collected,1
+1,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,1
+1,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,1
+1,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,1
+1,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,1
+1,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,1
+1,Cloud Layer,ExecuteMLModel,MLModel has been executed,1
+1,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,1
+1,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,1
+1,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,1
+1,Physical Layer,TriggerActuatorToActivate,Activate Trigger,2
+2,Physical Layer,ReadSensor,Sensor read has been done,2
+2,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,2
+2,Edge Layer,CollectSensorData,Sensor Data has been collected,2
+2,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,2
+2,Physical Layer,ReadSensor,Sensor read has been done,2
+2,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,2
+2,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,2
+2,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,2
+2,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,2
+2,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,2
+2,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,2
+2,Cloud Layer,ExecuteMLModel,MLModel has been executed,2
+2,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,2
+2,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,2
+2,Physical Layer,TriggerActuatorToActivate,Activate Trigger,3
+2,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,2
+2,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,2
+2,Physical Layer,ReadSensor,Sensor read has been done,2
+2,Edge Layer,CollectSensorData,Sensor Data has been collected,2
+o Edge,2
+2,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,2
+2,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,2
+2,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,2
+2,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,2
+2,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,2
+2,Cloud Layer,ExecuteMLModel,MLModel has been executed,2
+2,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,2
+2,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,2
+2,Physical Layer,ReadSensor,Sensor read has been done,2
+2,Edge Layer,CollectSensorData,Sensor Data has been collected,2
+2,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,2
+2,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,2
+2,Physical Layer,ReadSensor,Sensor read has been done,2
+2,Edge Layer,CollectSensorData,Sensor Data has been collected,2
+2,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,2
+2,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,2
+2,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,2
+2,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,2
+2,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,2
+2,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,2
+2,Cloud Layer,ExecuteMLModel,MLModel has been executed,2
+2,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,2
+2,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,2
+2,Physical Layer,ReadSensor,Sensor read has been done,2
+2,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,2
+2,Edge Layer,CollectSensorData,Sensor Data has been collected,2
+2,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,2
+2,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,2
+2,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,2
+2,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,2
+2,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,2
+2,Cloud Layer,ExecuteMLModel,MLModel has been executed,2
+2,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,2
+2,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,2
+2,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,2,Physical Layer,TriggerActuatorToActivate,Activate Trigger,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+o Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Physical Layer,ReadSensor,Sensor read has been done,3
+3,Edge Layer,CollectSensorData,Sensor Data has been collected,3
+o Edge,3
+3,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,3
+3,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,3
+3,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,3
+3,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,3
+3,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,3
+3,Cloud Layer,ExecuteMLModel,MLModel has been executed,3
+3,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,3
+3,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,3
+3,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,3
+3,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,3
+3,Physical Layer,TriggerActuatorToActivate,Activate Trigger,4
+4,Physical Layer,ReadSensor,Sensor read has been done,4
+4,Edge Layer,CollectSensorData,Sensor Data has been collected,4
+4,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,4
+4,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,4
+4,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,4
+4,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,4
+4,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,4
+4,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,4
+4,Cloud Layer,ExecuteMLModel,MLModel has been executed,4
+4,Physical Layer,ReadSensor,Sensor read has been done,4
+4,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,4
+4,Edge Layer,CollectSensorData,Sensor Data has been collected,4
+4,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,4
+4,Physical Layer,ReadSensor,Sensor read has been done,4
+4,Edge Layer,CollectSensorData,Sensor Data has been collected,4
+o Edge,4
+4,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,4
+4,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,4
+4,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,4
+4,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,4
+4,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,4
+4,Cloud Layer,ExecuteMLModel,MLModel has been executed,4
+4,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,4
+4,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,4
+4,Physical Layer,ReadSensor,Sensor read has been done,4
+4,Edge Layer,CollectSensorData,Sensor Data has been collected,4
+4,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,4
+4,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,4
+4,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,4
+4,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,4
+4,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,4
+4,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,4
+4,Cloud Layer,ExecuteMLModel,MLModel has been executed,4
+4,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,4
+4,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,4
+4,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,4
+4,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,4
+4,Physical Layer,TriggerActuatorToActivate,Activate Trigger,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,TriggerActuatorToActivate,Activate Trigger,6
+nt to physical layer,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,5
+5,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,TriggerActuatorToActivate,Activate Trigger,6
+5,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,5
+5,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,TriggerActuatorToActivate,Activate Trigger,6
+5,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,5
+5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+o Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,5
+gerToActuator,Trigger actuator has been sent to physical layer,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CollectSensorData,Sensor Data has been collected,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,5
+5,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,5
+5,Physical Layer,TriggerActuatorToActivate,Activate Trigger,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,6
+6,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,6
+6,Physical Layer,TriggerActuatorToActivate,Activate Trigger,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,7
+7,Edge Layer,CollectSensorData,Sensor Data has been collected,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,7
+7,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,7
+7,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,7
+7,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,7
+7,Cloud Layer,ExecuteMLModel,MLModel has been executed,7
+7,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,7
+7,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,7
+7,Physical Layer,TriggerActuatorToActivate,Activate Trigger,8
+ent to Edge layer,7
+7,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,7
+7,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,7
+7,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,7
+7,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,7
+7,Cloud Layer,ExecuteMLModel,MLModel has been executed,7
+7,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,7
+7,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Edge Layer,CollectSensorData,Sensor Data has been collected,7
+7,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,7
+7,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,7
+7,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,7
+7,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,7
+7,Cloud Layer,ExecuteMLModel,MLModel has been executed,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Edge Layer,CollectSensorData,Sensor Data has been collected,7
+o Edge,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Edge Layer,CollectSensorData,Sensor Data has been collected,7
+o Edge,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,7
+7,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,7
+7,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,7
+7,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,7
+7,Cloud Layer,ExecuteMLModel,MLModel has been executed,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,7
+7,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,7
+7,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,7
+7,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,7
+7,Cloud Layer,ExecuteMLModel,MLModel has been executed,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Edge Layer,CollectSensorData,Sensor Data has been collected,7
+o Edge,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Physical Layer,ReadSensor,Sensor read has been done,7
+7,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,7
+7,Edge Layer,CollectSensorData,Sensor Data has been collected,7
+7,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,7
+7,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,7
+7,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,7
+7,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,7
+7,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,7
+7,Cloud Layer,ExecuteMLModel,MLModel has been executed,7
+7,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,7
+7,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,7
+7,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,7
+7,Physical Layer,TriggerActuatorToActivate,Activate Trigger,8
+8,Physical Layer,ReadSensor,Sensor read has been done,8
+8,Edge Layer,CollectSensorData,Sensor Data has been collected,8
+8,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,8
+8,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,8
+8,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,8
+8,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,8
+8,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,8
+8,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,8
+8,Cloud Layer,ExecuteMLModel,MLModel has been executed,8
+8,Physical Layer,ReadSensor,Sensor read has been done,8
+8,Edge Layer,CollectSensorData,Sensor Data has been collected,8
+o Edge,8
+8,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,8
+8,Physical Layer,ReadSensor,Sensor read has been done,8
+8,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,8
+8,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,8
+8,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,8
+8,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,8
+8,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,8
+8,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,8
+8,Cloud Layer,ExecuteMLModel,MLModel has been executed,8
+8,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,8
+8,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,8
+8,Physical Layer,ReadSensor,Sensor read has been done,8
+8,Edge Layer,CollectSensorData,Sensor Data has been collected,8
+o Edge,8
+8,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,8
+8,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,8
+8,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,8
+8,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,8
+8,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,8
+8,Cloud Layer,ExecuteMLModel,MLModel has been executed,8
+8,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,8
+8,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,8
+8,Physical Layer,ReadSensor,Sensor read has been done,8
+8,Edge Layer,CollectSensorData,Sensor Data has been collected,8
+8,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,8
+8,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,8
+8,Physical Layer,ReadSensor,Sensor read has been done,8
+8,Edge Layer,CollectSensorData,Sensor Data has been collected,8
+o Edge,8
+8,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,8
+8,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,8
+8,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,8
+8,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,8
+8,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,8
+8,Cloud Layer,ExecuteMLModel,MLModel has been executed,8
+8,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,8
+8,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,8
+8,Physical Layer,ReadSensor,Sensor read has been done,8
+8,Edge Layer,CollectSensorData,Sensor Data has been collected,8
+8,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,8
+8,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,8
+8,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,8
+8,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,8
+8,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,8
+8,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,8
+8,Cloud Layer,ExecuteMLModel,MLModel has been executed,8
+8,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,8
+8,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,8
+8,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,8
+8,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,8
+8,Physical Layer,TriggerActuatorToActivate,Activate Trigger,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Edge Layer,CollectSensorData,Sensor Data has been collected,9
+9,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Edge Layer,CollectSensorData,Sensor Data has been collected,9
+o Edge,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,9
+9,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,9
+9,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,9
+9,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,9
+9,Cloud Layer,ExecuteMLModel,MLModel has been executed,9
+9,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,9
+9,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,9
+9,Edge Layer,CollectSensorData,Sensor Data has been collected,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,9
+9,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,9
+9,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,9
+9,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,9
+9,Cloud Layer,ExecuteMLModel,MLModel has been executed,9
+9,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,9
+9,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,9
+9,Edge Layer,CollectSensorData,Sensor Data has been collected,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,9
+9,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,9
+9,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,9
+9,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,9
+9,Cloud Layer,ExecuteMLModel,MLModel has been executed,9
+9,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,9
+9,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,9
+9,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,9
+9,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,9
+9,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,9
+9,Cloud Layer,ExecuteMLModel,MLModel has been executed,9
+9,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,9
+9,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Edge Layer,CollectSensorData,Sensor Data has been collected,9
+o Edge,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,9
+9,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,9
+9,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,9
+9,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,9
+9,Cloud Layer,ExecuteMLModel,MLModel has been executed,9
+9,Physical Layer,ReadSensor,Sensor read has been done,9
+9,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,9
+9,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,9
+9,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,9
+9,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,9
+9,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,9
+9,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,9
+9,Cloud Layer,ExecuteMLModel,MLModel has been executed,9
+9,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,9
+9,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,9
+9,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,9
+9,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,9
+9,Physical Layer,TriggerActuatorToActivate,Activate Trigger,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Edge Layer,CollectSensorData,Sensor Data has been collected,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Physical Layer,ReadSensor,Sensor read has been done,10
+10,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,10
+10,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,10
+10,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,10
+10,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,10
+10,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,10
+10,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,10
+10,Cloud Layer,ExecuteMLModel,MLModel has been executed,10
+10,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,10
+10,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,10
+10,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,10
+10,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,10
+10,Physical Layer,TriggerActuatorToActivate,Activate Trigger,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Edge Layer,CollectSensorData,Sensor Data has been collected,11
+ Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,11
+11,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,11
+11,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,11
+11,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,11
+11,Cloud Layer,ExecuteMLModel,MLModel has been executed,11
+11,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,11
+11,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,11
+11,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,11
+11,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,11
+11,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,11
+11,Cloud Layer,ExecuteMLModel,MLModel has been executed,11
+11,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,11
+11,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,11
+11,Physical Layer,TriggerActuatorToActivate,Activate Trigger,12
+t to physical layer,11
+11,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Edge Layer,CollectSensorData,Sensor Data has been collected,11
+ Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Physical Layer,ReadSensor,Sensor read has been done,11
+11,Edge Layer,CollectSensorData,Sensor Data has been collected,11
+ Edge,11
+11,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,11
+11,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,11
+11,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,11
+11,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,11
+11,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,11
+11,Cloud Layer,ExecuteMLModel,MLModel has been executed,11
+11,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,11
+11,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,11
+11,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,11
+1
+11,Physical Layer,TriggerActuatorToActivate,Activate Trigger,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,12
+12,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,12
+12,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,12
+12,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,12
+12,Cloud Layer,ExecuteMLModel,MLModel has been executed,12
+12,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,12
+12,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Edge Layer,CollectSensorData,Sensor Data has been collected,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Edge Layer,CollectSensorData,Sensor Data has been collected,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,12
+12,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,12
+12,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,12
+12,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,12
+12,Cloud Layer,ExecuteMLModel,MLModel has been executed,12
+12,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,12
+12,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Edge Layer,CollectSensorData,Sensor Data has been collected,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,12
+12,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,12
+12,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,12
+12,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,12
+12,Cloud Layer,ExecuteMLModel,MLModel has been executed,12
+12,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,12
+12,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Edge Layer,CollectSensorData,Sensor Data has been collected,12
+ Edge,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,12
+12,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,12
+12,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,12
+12,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,12
+12,Cloud Layer,ExecuteMLModel,MLModel has been executed,12
+12,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,12
+12,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Edge Layer,CollectSensorData,Sensor Data has been collected,12
+ Edge,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,12
+12,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,12
+12,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,12
+12,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,12
+12,Cloud Layer,ExecuteMLModel,MLModel has been executed,12
+12,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,12
+12,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Edge Layer,CollectSensorData,Sensor Data has been collected,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Edge Layer,CollectSensorData,Sensor Data has been collected,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,12
+12,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,12
+12,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,12
+12,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,12
+12,Cloud Layer,ExecuteMLModel,MLModel has been executed,12
+12,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,12
+12,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,12
+12,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,12
+12,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,12
+12,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,12
+12,Cloud Layer,ExecuteMLModel,MLModel has been executed,12
+12,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,12
+12,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,12
+12,Cloud Layer,SendTriggerToActuator,Trigger actuator has been se12,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Edge Layer,CollectSensorData,Sensor Data has been collected,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Physical Layer,ReadSensor,Sensor read has been done,12
+12,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,12
+12,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,12
+12,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,12
+12,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,12
+12,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,12
+12,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,12
+12,Cloud Layer,ExecuteMLModel,MLModel has been executed,12
+12,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,12
+12,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,12
+12,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,12
+12,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,12
+12,Physical Layer,TriggerActuatorToActivate,Activate Trigger,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,TriggerActuatorToActivate,Activate Trigger,14
+nt to Edge layer,13
+13,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,13
+13,Physical Layer,TriggerActuatorToActivate,Activate Trigger,14
+nt to Edge layer,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Edge Layer,SendTriggerToActuator,Trigger actuator has been sen13,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,13
+13,Physical Layer,TriggerActuatorToActivate,Activate Trigger,14
+13,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+ Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Physical Layer,ReadSensor,Sensor read has been done,13
+13,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,13
+13,Edge Layer,CollectSensorData,Sensor Data has been collected,13
+13,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,13
+13,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,13
+13,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,13
+13,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,13
+13,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,13
+13,Cloud Layer,ExecuteMLModel,MLModel has been executed,13
+13,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,13
+13,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,13
+13,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,13
+13,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,13
+13,Physical Layer,TriggerActuatorToActivate,Activate Trigger,14
+14,Physical Layer,ReadSensor,Sensor read has been done,14
+14,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,14
+14,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,14
+14,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,14
+14,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,14
+14,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,14
+14,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,14
+14,Cloud Layer,ExecuteMLModel,MLModel has been executed,14
+14,Physical Layer,ReadSensor,Sensor read has been done,14
+14,Edge Layer,CollectSensorData,Sensor Data has been collected,14
+ Edge,14
+14,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,14
+14,Physical Layer,ReadSensor,Sensor read has been done,14
+14,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,14
+14,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,14
+14,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,14
+14,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,14
+14,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,14
+14,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,14
+14,Cloud Layer,ExecuteMLModel,MLModel has been executed,14
+14,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,14
+14,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,14
+14,Physical Layer,TriggerActuatorToActivate,Activate Trigger,15
+t to physical layer,14
+14,Physical Layer,ReadSensor,Sensor read has been done,14
+14,Edge Layer,CollectSensorData,Sensor Data has been collected,14
+14,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,14
+14,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,14
+14,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,14
+14,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,14
+14,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,14
+14,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,14
+14,Cloud Layer,ExecuteMLModel,MLModel has been executed,14
+14,Physical Layer,ReadSensor,Sensor read has been done,14
+14,Edge Layer,CollectSensorData,Sensor Data has been collected,14
+ Edge,14
+14,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,14
+14,Physical Layer,ReadSensor,Sensor read has been done,14
+14,Edge Layer,CollectSensorData,Sensor Data has been collected,14
+14,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,14
+14,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,14
+14,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,14
+14,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,14
+14,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,14
+14,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,14
+14,Cloud Layer,ExecuteMLModel,MLModel has been executed,14
+14,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,14
+14,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,14
+14,Physical Layer,ReadSensor,Sensor read has been done,14
+14,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,14
+14,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,14
+14,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,14
+14,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,14
+14,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,14
+14,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,14
+14,Cloud Layer,ExecuteMLModel,MLModel has been executed,14
+14,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,14
+14,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,14
+14,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,14
+14,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,14
+14,Physical Layer,TriggerActuatorToActivate,Activate Trigger,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,TriggerActuatorToActivate,Activate Trigger,16
+15,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,15
+15,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,TriggerActuatorToActivate,Activate Trigger,16
+t to physical layer,15
+15,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,TriggerActuatorToActivate,Activate Trigger,16
+t to physical layer,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,TriggerActuatorToActivate,Activate Trigger,16
+t to physical layer,15
+15,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+ Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,15
+15,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,15
+15,Physical Layer,TriggerActuatorToActivate,Activate Trigger,16
+15,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Physical Layer,ReadSensor,Sensor read has been done,15
+15,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,15
+15,Edge Layer,CollectSensorData,Sensor Data has been collected,15
+15,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,15
+15,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,15
+15,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,15
+15,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,15
+15,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,15
+15,Cloud Layer,ExecuteMLModel,MLModel has been executed,15
+15,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,15
+15,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,15
+15,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,15
+5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Physical Layer,ReadSensor,Sensor read has been done,5
+5,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,5
+5,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,5
+5,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,5
+5,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,5
+5,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,5
+5,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,5
+5,Cloud Layer,ExecuteMLModel,MLModel has been executed,5
+5,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,5
+5,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,5
+5,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,5
+5,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,5
+5,Physical Layer,TriggerActuatorToActivate,Activate Trigger,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,TriggerActuatorToActivate,Activate Trigger,7
+6,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,6
+6,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Edge Layer,SendTriggerToActuator,Trigger actuator has been sent to physical layer,6
+6,Physical Layer,TriggerActuatorToActivate,Activate Trigger,7
+6,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,TriggerActuatorToActivate,Activate Trigger,7
+ent to Edge layer,6
+6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+o Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Cloud Layer,GetMLModelPrediction,GetMLModelPrediction,6
+6,Cloud Layer,DecidetoTriggerActuator,DecidetoTriggerActuator,6
+6,Edge Layer,SendTriggerToActuator,Trigger actuator has been se6,Cloud Layer,SendTriggerToActuator,Trigger actuator has been sent to Edge layer,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CollectSensorData,Sensor Data has been collected,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
+6,Physical Layer,ReadSensor,Sensor read has been done,6
+6,Physical Layer,SendSensorDataToEdge,Sensor data has been sent to Edge,6
+6,Edge Layer,CleaningSensorData,Sensor Data has been Cleaned,6
+6,Edge Layer,AggregateSensorData,Sensor Data has been Aggregated,6
+6,Edge Layer,SendSensorDataToCloud,Sensor Data has been sent to cloud,6
+6,Cloud Layer,ReceivedSensorData,ReceivedSensorData from Edge layer,6
+6,Cloud Layer,FeedSensorDataToMLModel,SensorData has been fed to ML model,6
+6,Cloud Layer,ExecuteMLModel,MLModel has been executed,6
