@@ -1,0 +1,11 @@
+Solution,Solution Name,Goal,Goal Name,Strategy,Strategy Name
+Sn14,Record of network traffic packet's TCP attributes,G-16,Transmit trigger flag to actuator,S14,Argument over SendTriggerToActuator at Edge layer
+Sn14,Record of network traffic packet's TCP attributes,G-23,Transmit trigger flag to edge layer,S18,Argument over DecidetoTriggerActuator at Cloud layer
+Sn14,Record of network traffic packet's TCP attributes,G-22,Transmit  aggregated sensor data to Cloud layer,S17,Argument over SendSensorDataToEdge at Edge layer
+Sn14,Record of network traffic packet's TCP attributes,G-21,Record aggregared sensor data at Cloud layer,S16,Argument over ReceivedSensorData at Cloud layer
+Sn11,Record of network traffic packet's HTTP attributes,G-17,Transmit  analysis result to application layer,S15,Argument over ShowAnalysisResult&TriggerDecision at Application layer
+Sn11,Record of network traffic packet's HTTP attributes,G-19,Transmit trigger flag to cloud layer,S15,Argument over ShowAnalysisResult&TriggerDecision at Application layer
+Sn6,Record of network traffic packet's UDP attributes,G-16,Transmit trigger flag to actuator,S14,Argument over SendTriggerToActuator at Edge layer
+Sn6,Record of network traffic packet's UDP attributes,G-15,Activate actuators as per trigger,S13,Argument over TriggerActuatorToActivate at Physical layer
+Sn6,Record of network traffic packet's UDP attributes,G-14,Record transmitted sensor data reading,S12,Argument over CollectSensorData at Edge layer
+Sn6,Record of network traffic packet's UDP attributes,G-13,Transmit  sensor data reading to edge layer,S11,Argument over SendSensorDataToEdge at Physical layer

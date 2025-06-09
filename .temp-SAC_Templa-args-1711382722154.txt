@@ -1,0 +1,8 @@
+-Dfile.encoding=UTF-8
+-Dstdout.encoding=UTF-8
+-Dstderr.encoding=UTF-8
+-classpath
+"C:\\Users\\Masrufa\\Downloads\\Adaptation_Assessment_Framework"
+SAC_Template
+"C:\\Users\\Masrufa\\Downloads\\Adaptation_Assessment_Framework\\paramlist.txt"
+$(file_prompt}

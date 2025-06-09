@@ -1,0 +1,10 @@
+Context|identifier|tailoring 
+Solution|identifier|assessment
+MainGoal|family|number|identifier|implemented by|control|baseline allocation|provision set|1
+ReqGoal|identifier|assessment process|functional requirement|1
+moduleGoal|identifier|assessment process|1
+opGoal|identifier|variable|condition|1
+strategy|identifier|assessment process
+InContextOf|contextSourceGoal|contextDestinationContext
+SupportedBy|supportSource|supportDestination
+SupportedBy|supportSourceWithProvideRequires|supportDestinati onWithProvideRequires|provision set

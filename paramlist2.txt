@@ -1,0 +1,47 @@
+Context|SC-5[a]|DoSEvent={TCP SYN Flood,UDP Flood, HTTP Flood, ICMP Flood}
+Context|SC-5[b]|protectionControl={IPS,Firewall rules}
+Solution|MSn1| Log of network traffic attributes
+Solution|MSn2|List of TCP SYN Flood attack attributes(TCP_atc_Attr)
+Solution|MSn3|List of UDP attack attributes (UDP_atc_Attr)
+Solution|MSn4|List of HTTP attack attributes (HTTP_atc_Attr)
+Solution|MSn5| List of ICMP Flood attack attributes(ICMP_atc_Attr)
+Solution|MSn6|Log of configuration change event 
+Strategy|S1|Argument over protectionControl configuration
+Strategy|MS1|Argument over networkTrafficMonitor
+moduleGoal|M1|Check network traffic parameters to detect attack type|1
+moduleGoal|M2|Change configuration to enable measures|1
+opGoal|SC-5|G0|Categorize and list network traffic parameters to specific attack type|1
+opGoal|SC-5|G1|Check network traffic parameters to detect TCP SYN Flood attack|1
+opGoal|SC-5|G2|Check network traffic parameters to detect UDP Flood attack |1
+opGoal|SC-5|G3|Check network traffic parameters to detect HTTP Flood attack |1
+opGoal|SC-5|G3|Check network traffic parameters to detect ICMP attack |1
+ReqGoal|SC-5 Req|protectionControlconfiguration|Enabling measures on detect attack type|1
+MainGoal|family|number|identifier|implemented by|control|baseline allocation|provision set|1
+MainGoal|SC|5|SC-5 Main|System|control|high|val(DoSEvents),val(detectAttackType),val(protectionControl)|1
+InContextOf|SC-5 Main|SC-5[a]
+InContextOf|SC-5 Main|SC-5[b]
+SupportedBy|SC-5 Main |S1
+SupportedBy|S1|SC-5 Req
+SupportedBy|SC-5 Req|M2
+SupportedBy|SC-5 Req|M1
+SupportedBy|M2|MSn6
+SupportedBy|M1|MS1
+SupportedBy|MS1|SC-5 G1
+SupportedBy|MS1|SC-5 G2
+SupportedBy|MS1|SC-5 G3
+SupportedBy|MS1|SC-5 G4
+SupportedBy|MS1|SC-5 G0
+SupportedBy|SC-5 G1|MSn2
+SupportedBy|SC-5 G1|MSn1
+SupportedBy|SC-5 G2|MSn3
+SupportedBy|SC-5 G2|MSn1
+SupportedBy|SC-5 G3|MSn4
+SupportedBy|SC-5 G3|MSn1
+SupportedBy|SC-5 G4|MSn5
+SupportedBy|SC-5 G4|MSn1
+SupportedBy|SC-5 G0|MSn5
+SupportedBy|SC-5 G0|MSn4
+SupportedBy|SC-5 G0|MSn3
+SupportedBy|SC-5 G0|MSn2
+SupportedBy|supportSource|supportDestination
+SupportedBy|supportSourceWithProvideRequires|supportDestinationWithProvideRequires|provision set

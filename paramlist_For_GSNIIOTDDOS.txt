@@ -1,0 +1,51 @@
+Context|SC-5(3)|Assignment (organization-defined monitoring tools)|monitoringTools = "Deep learning model"
+Solution|Sn6|Record of network traffic packet's UDP attributes
+MainGoal|SC-5(3)|G-5|implemented by|monitoring tools|detectAttackType, modelPerformanceMatrix|baseline allocation = 90% accuracy|provision set = [val(detectAttackType), val(modelPerformanceMatrix)]
+ReqGoal|G-3|DL model performance|functional requirement = evaluate DL model performance|baseline allocation = 90% accuracy
+moduleGoal|G-4|DL model detection|functional requirement = build DL model to detect DDoS attacks|provision set = [DL model to detect DDoS attack]
+opGoal|G-1|configuration change|variable = enable detection measures|condition = based on consequence reports
+strategy|S1|ProtectionControlConfiguration|assessment process = argument over enabling protection control configuration
+InContextOf|SC-5|Goal-SI-4|detect indicators of potential DDoS attacks across different network layers
+SupportedBy|DL model|DDoS detection|assessment process = predict attack type based on network traffic data
+SupportedBy|monitoring tools|modelPerformanceMatrix|provision set = [DL model predictions, performance metrics for network traffic monitoring]
+
+Context|SI-4|Assignment (organization-defined monitoring objectives)|monitoringObjectives = {TCP SYN Flood, UDP Flood, HTTP Flood}
+Solution|Sn5|DL model's prediction to detect attack type
+MainGoal|SI-4|G-6|implemented by|network traffic monitoring tools|detect monitoredNetworkData|provision set = [monitored network data between layers, DL model performance analysis]
+ReqGoal|G-2|DL model development|functional requirement = build a DL model to detect DDoS attacks
+moduleGoal|G-8|Execute DL model|functional requirement = apply DL model on real-time network data to predict attack types
+opGoal|G-10|UDP network traffic monitoring|variable = monitor UDP network traffic|condition = between physical and edge layers
+strategy|S9|DL model pipeline|assessment process = argument over establishing DL model pipeline for network traffic monitoring at the cloud layer
+InContextOf|SI-4|Goal-G-5|process DDoS detection using machine learning models at multiple network layers
+SupportedBy|network traffic data|DL model analysis|provision set = [sensor data collected, DL model's detection result]
+
+Context|SC-5|Assignment (types of denial-of-service events)|DoSEvent = {TCP SYN Flood, UDP Flood, HTTP Flood}
+Solution|Sn4|DL model's performance matrix
+MainGoal|SC-5|G-7|implemented by|controls for denial-of-service events|limit the effects of DDoS attacks|provision set = [IPS, firewall rules, DL models to predict attack type]
+ReqGoal|G-5|Consequence report generation|functional requirement = generate consequence report on detecting DDoS attacks
+moduleGoal|G-9|DL model prediction recording|functional requirement = record DL model predictions on detecting DDoS attack type
+opGoal|G-12|TCP network traffic monitoring|variable = monitor TCP network traffic|condition = between edge and cloud layers
+strategy|S7|ExecuteDLModel|assessment process = argument over executing the DL model on network traffic data
+InContextOf|SC-5|Goal-SC-5(3)|mitigate the effects of DDoS attacks by employing DL model predictions and protections at multiple network layers
+SupportedBy|firewall rules|IPS controls|provision set = [attack type predictions, mitigation strategies based on DL model analysis]
+
+Context|SI-4|Assignment (organization-defined monitoring objectives)|monitoring network traffic for DDoS indicators
+Solution|Sn3|Existence of DL model to detect DDoS attack
+MainGoal|SI-4|G-14|implemented by|DL model analysis|record sensor data|provision set = [sensor data, DDoS detection triggers]
+ReqGoal|G-5|DL model feedback|functional requirement = monitor sensor data and record its status
+moduleGoal|G-13|Transmit sensor data|functional requirement = transmit sensor data readings to the edge layer
+opGoal|G-15|Activate actuators|variable = trigger actuator activation based on DL model predictions|condition = as per DDoS detection
+strategy|S12|CollectSensorData|assessment process = argument over collecting sensor data at the edge layer
+InContextOf|SI-4|Goal-G-16|use DL models to predict attack types and feed data into sensors for real-time monitoring
+SupportedBy|sensor data|DL model predictions|provision set = [sensor status, actuator status, DDoS trigger flags]
+
+Context|SC-5(3)|Assignment (controls for denial-of-service events)|protectionControl = {IPS, Firewall rules}
+Solution|Sn2|Instances of consequence reports generated on detecting attacks
+MainGoal|SC-5(3)|G-22|implemented by|cloud-based ML models|predict actuator trigger decisions based on sensor data analysis|provision set = [ML model predictions, trigger flags set by ML models]
+ReqGoal|G-19|Trigger flag transmission|functional requirement = transmit analysis results and trigger flags to the cloud layer
+moduleGoal|G-25|Employ ML model|functional requirement = use ML model to predict actuator decisions based on sensor data
+opGoal|G-23|Transmit trigger flag|variable = transmit trigger flag from ML model|condition = edge layer analysis completed
+strategy|S19|GetMLModelPrediction|assessment process = argument over getting ML model predictions at the cloud layer
+InContextOf|SC-5|Goal-G-28|employ ML models to predict actuator behavior based on DDoS attack data collected
+SupportedBy|ML model predictions|actuator decisions|provision set = [sensor data, trigger flags, actuator logs]
+
