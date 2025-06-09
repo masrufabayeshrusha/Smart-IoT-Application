@@ -1,0 +1,11 @@
+Attack_type,Probabilistic Value,Feature Name,Expected_range,Feature_Weight,Feature_Value
+5,DDoS_TCP,1.0,tcp.connection.rst,tcp.connection.rst <= 0.00,-0.6928587186648808,0.0
+5,DDoS_TCP,1.0,tcp.connection.syn,tcp.connection.syn > 0.00,0.6313877412849586,1.0
+5,DDoS_TCP,1.0,http.referer,http.referer=0.0,0.09587963377670829,0.0
+5,DDoS_TCP,1.0,udp.stream,udp.stream <= 0.00,-0.07636794955007253,0.0
+5,DDoS_TCP,1.0,http.request.method,http.request.method=0.0,-0.040519355505010964,0.0
+5,DDoS_TCP,1.0,tcp.connection.fin,tcp.connection.fin <= 0.00,0.029506900079405884,0.0
+5,DDoS_TCP,1.0,tcp.checksum,tcp.checksum > 0.73,-0.01787589459157926,0.9529564354924849
+5,DDoS_TCP,1.0,tcp.ack,tcp.ack > 0.00,0.014428528002685768,0.4996153673984326
+5,DDoS_TCP,1.0,tcp.ack_raw,0.42 < tcp.ack_raw <= 0.62,0.012605293059737174,0.45943630607029634
+5,DDoS_TCP,1.0,tcp.len,tcp.len > 0.01,0.010121926172772423,0.08287292817679558

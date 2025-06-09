@@ -1,0 +1,251 @@
+[
+    {
+        "traffic_info": {
+            "Type": "attack",
+            "Spec_version": "dummy",
+            "Id": "Default_ID",
+            "Created": "N/A",
+            "modified": "N/A",
+            "Name": "DDoS_HTTP",
+            "probability": 1.0
+        },
+        "interpretation_info": [
+            {
+                "goal_id": "G-16",
+                "goal_name": "Transmit trigger flag to actuator",
+                "attribute_contexts": [
+                    {
+                        "attribute": "tcp.ack",
+                        "state": "tcp.ack <= 0.00",
+                        "attribute_value": 2.5319476707193333e-10
+                    },
+                    {
+                        "attribute": "tcp.len",
+                        "state": "tcp.len > 0.01",
+                        "attribute_value": 0.0151933701657458
+                    }
+                ],
+                "affected goal": "SI-4 Main|SI-4 Req|G-10; SI-4 Main|SI-4 Req|G-12",
+                "goal description": [
+                    {
+                        "goal_id": "G-10",
+                        "goal_name": "Monitor UDP network traffic in between physical and edge layer"
+                    },
+                    {
+                        "goal_id": "G-12",
+                        "goal_name": "Monitor TCP network traffic in between edge and cloud layer"
+                    },
+                    {
+                        "goal_id": "SI-4 Main",
+                        "goal_name": "Monitor the system to detect attacks"
+                    },
+                    {
+                        "goal_id": "SI-4 Req",
+                        "goal_name": "Monitor network traffic to detect DDoS"
+                    }
+                ],
+                "process": [
+                    {
+                        "process_name": "SendTriggerToActuator",
+                        "process_importance": 0.086069
+                    }
+                ]
+            },
+            {
+                "goal_id": "G-17",
+                "goal_name": "Transmit  analysis result to application layer",
+                "attribute_contexts": [
+                    {
+                        "attribute": "http.referer",
+                        "state": "http.referer=0",
+                        "attribute_value": 0.0
+                    },
+                    {
+                        "attribute": "http.request.method",
+                        "state": "http.request.method=0",
+                        "attribute_value": 0.0
+                    },
+                    {
+                        "attribute": "http.request.version",
+                        "state": "http.request.version=0",
+                        "attribute_value": 0.0
+                    }
+                ],
+                "affected goal": "SI-4 Main|SI-4 Req|G-11",
+                "goal description": [
+                    {
+                        "goal_id": "G-11",
+                        "goal_name": "Monitor HTTP network traffic in between Cloud and Application layer"
+                    },
+                    {
+                        "goal_id": "SI-4 Main",
+                        "goal_name": "Monitor the system to detect attacks"
+                    },
+                    {
+                        "goal_id": "SI-4 Req",
+                        "goal_name": "Monitor network traffic to detect DDoS"
+                    }
+                ],
+                "process": [
+                    {
+                        "process_name": "ReadSensor",
+                        "process_importance": 0.008197
+                    }
+                ]
+            },
+            {
+                "goal_id": "G-19",
+                "goal_name": "Transmit trigger flag to cloud layer",
+                "attribute_contexts": [
+                    {
+                        "attribute": "http.referer",
+                        "state": "http.referer=0",
+                        "attribute_value": 0.0
+                    },
+                    {
+                        "attribute": "http.request.method",
+                        "state": "http.request.method=0",
+                        "attribute_value": 0.0
+                    },
+                    {
+                        "attribute": "http.request.version",
+                        "state": "http.request.version=0",
+                        "attribute_value": 0.0
+                    }
+                ],
+                "affected goal": "SI-4 Main|SI-4 Req|G-11",
+                "goal description": [
+                    {
+                        "goal_id": "G-11",
+                        "goal_name": "Monitor HTTP network traffic in between Cloud and Application layer"
+                    },
+                    {
+                        "goal_id": "SI-4 Main",
+                        "goal_name": "Monitor the system to detect attacks"
+                    },
+                    {
+                        "goal_id": "SI-4 Req",
+                        "goal_name": "Monitor network traffic to detect DDoS"
+                    }
+                ],
+                "process": [
+                    {
+                        "process_name": "ReadSensor",
+                        "process_importance": 0.008197
+                    }
+                ]
+            },
+            {
+                "goal_id": "G-21",
+                "goal_name": "Record aggregared sensor data at Cloud layer",
+                "attribute_contexts": [
+                    {
+                        "attribute": "tcp.ack",
+                        "state": "tcp.ack <= 0.00",
+                        "attribute_value": 2.5319476707193333e-10
+                    },
+                    {
+                        "attribute": "tcp.len",
+                        "state": "tcp.len > 0.01",
+                        "attribute_value": 0.0151933701657458
+                    }
+                ],
+                "affected goal": "SI-4 Main|SI-4 Req|G-12",
+                "goal description": [
+                    {
+                        "goal_id": "G-12",
+                        "goal_name": "Monitor TCP network traffic in between edge and cloud layer"
+                    },
+                    {
+                        "goal_id": "SI-4 Main",
+                        "goal_name": "Monitor the system to detect attacks"
+                    },
+                    {
+                        "goal_id": "SI-4 Req",
+                        "goal_name": "Monitor network traffic to detect DDoS"
+                    }
+                ],
+                "process": [
+                    {
+                        "process_name": "ReceivedSensorData",
+                        "process_importance": 0.057374
+                    }
+                ]
+            },
+            {
+                "goal_id": "G-22",
+                "goal_name": "Transmit  aggregated sensor data to Cloud layer",
+                "attribute_contexts": [
+                    {
+                        "attribute": "tcp.ack",
+                        "state": "tcp.ack <= 0.00",
+                        "attribute_value": 2.5319476707193333e-10
+                    },
+                    {
+                        "attribute": "tcp.len",
+                        "state": "tcp.len > 0.01",
+                        "attribute_value": 0.0151933701657458
+                    }
+                ],
+                "affected goal": "SI-4 Main|SI-4 Req|G-12",
+                "goal description": [
+                    {
+                        "goal_id": "G-12",
+                        "goal_name": "Monitor TCP network traffic in between edge and cloud layer"
+                    },
+                    {
+                        "goal_id": "SI-4 Main",
+                        "goal_name": "Monitor the system to detect attacks"
+                    },
+                    {
+                        "goal_id": "SI-4 Req",
+                        "goal_name": "Monitor network traffic to detect DDoS"
+                    }
+                ],
+                "process": [
+                    {
+                        "process_name": "SendSensorDataToEdge",
+                        "process_importance": 0.016393
+                    }
+                ]
+            },
+            {
+                "goal_id": "G-23",
+                "goal_name": "Transmit trigger flag to edge layer",
+                "attribute_contexts": [
+                    {
+                        "attribute": "tcp.ack",
+                        "state": "tcp.ack <= 0.00",
+                        "attribute_value": 2.5319476707193333e-10
+                    },
+                    {
+                        "attribute": "tcp.len",
+                        "state": "tcp.len > 0.01",
+                        "attribute_value": 0.0151933701657458
+                    }
+                ],
+                "affected goal": "SI-4 Main|SI-4 Req|G-12",
+                "goal description": [
+                    {
+                        "goal_id": "G-12",
+                        "goal_name": "Monitor TCP network traffic in between edge and cloud layer"
+                    },
+                    {
+                        "goal_id": "SI-4 Main",
+                        "goal_name": "Monitor the system to detect attacks"
+                    },
+                    {
+                        "goal_id": "SI-4 Req",
+                        "goal_name": "Monitor network traffic to detect DDoS"
+                    }
+                ],
+                "process": [
+                    {
+                        "process_name": "DecidetoTriggerActuator",
+                        "process_importance": 0.155743
+                    }
+                ]
+            }
+        ]
+    }
+]
