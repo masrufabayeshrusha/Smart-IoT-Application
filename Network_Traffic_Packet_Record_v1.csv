@@ -1,0 +1,20 @@
+﻿Solution,Solution Name,Atrribute
+Sn6,Record of network traffic packet's UDP attributes ,udp.stream
+Sn6,Record of network traffic packet's UDP attributes ,udp.time_delta
+Sn11,Record of network traffic packet's HTTP attributes,http.request.method
+Sn11,Record of network traffic packet's HTTP attributes,http.request.version
+Sn11,Record of network traffic packet's HTTP attributes,http.referer
+Sn11,Record of network traffic packet's HTTP attributes,http.response
+Sn11,Record of network traffic packet's HTTP attributes,http.content_length 
+Sn11,Record of network traffic packet's HTTP attributes,http.tls_port
+Sn14,Record of network traffic packet's TCP attributes ,tcp.ack
+Sn14,Record of network traffic packet's TCP attributes ,tcp.flags
+Sn14,Record of network traffic packet's TCP attributes ,tcp.len
+Sn14,Record of network traffic packet's TCP attributes ,tcp.ack_raw
+Sn14,Record of network traffic packet's TCP attributes ,tcp.checksum
+Sn14,Record of network traffic packet's TCP attributes ,tcp.seq
+Sn14,Record of network traffic packet's TCP attributes ,tcp.connection.syn
+Sn14,Record of network traffic packet's TCP attributes ,tcp.connection.fin
+Sn14,Record of network traffic packet's TCP attributes ,tcp.connection.synack
+Sn14,Record of network traffic packet's TCP attributes ,tcp.flags.ack
+Sn14,Record of network traffic packet's TCP attributes ,tcp.connection.rst
