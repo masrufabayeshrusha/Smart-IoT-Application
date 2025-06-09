@@ -1,0 +1,17 @@
+Process_Name,Degree
+CollectSensorData,0.024590
+CleaningSensorData,0.032786
+AggregateSensorData,0.040982
+SendSensorDataToCloud,0.049178
+ReceivedSensorData,0.057374
+SendTriggerToActuator,0.086069
+TriggerActuatorToActivate,0.094265
+PreprocessedSensorData,0.065571
+FeedSensorDataToMLModel,0.073768
+ExecuteMLModel,0.081966
+GetMLModelPrediction,0.090165
+DecidetoTriggerActuator,0.155743
+ShowAnalysisResult&TriggerDecision,0.086069
+ReadSensor,0.008197
+SendSensorDataToEdge,0.016393
+End of flow,0.036886
